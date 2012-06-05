@@ -1,0 +1,26 @@
+body { 
+	font-family: Arial, sans-serif;
+}
+h1, h2 {
+	color: gray;
+}
+img {
+	border: 2px solid gray;
+}
+a {
+	color: #992222;
+	text-decoration: none;
+}
+a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+ul {
+	list-style-type: circle;
+}
+
+/* HEADER */
+#header h1 {
+	color: gray;
+	font-size: 5.00em;
+}

@@ -1,0 +1,60 @@
+body { 
+	font-family: Arial, sans-serif;
+}
+h1, h2 {
+	color: gray;
+}
+img {
+	border: 2px solid gray;
+}
+a {
+	color: #992222;
+	text-decoration: none;
+}
+a:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+ul {
+	list-style-type: circle;
+}
+#header h1 {
+	color: gray;
+	font-size: 5.00em;
+}
+
+
+#header a {
+	color: #000000;
+}
+
+#header a:hover {
+	background-color: lightgray;
+}
+
+#breadcrumb a {
+	color: #0000cc;
+	font-size: 1.3em;
+}
+#header ul {
+	list-style-type: none;
+}
+
+
+
+#header ul li {
+	display: inline;
+	padding-right: 20px;
+}
+#header h1 {
+	margin: 0px;
+	padding-bottom: 10px;
+}
+#header ul {
+	padding: 0px;
+	margin-bottom: 0px;
+	font-size: 1.1em;
+}
+
+
+
