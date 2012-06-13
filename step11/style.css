@@ -67,7 +67,8 @@ ul {
 	margin: 20px;
 	clear: both;
 }
-.image {
+.artist img {
+	display: block;
 	width: 200px;
 	margin-right: 40px;
 	margin-top: 7px;
